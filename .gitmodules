@@ -1,0 +1,3 @@
+[submodule "MagePal"]
+	path = MagePal
+	url = ./app/code/MagePal
